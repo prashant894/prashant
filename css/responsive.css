@@ -542,7 +542,12 @@
 @media only screen and (max-width : 480px) {
 
   /* Pricing Table*/
-
+ 
+ .slider-hill
+ {
+   height: 350px;
+   width: 350px;
+ }
   .single-price, .single-table {
     margin-bottom: 35px;
   }
